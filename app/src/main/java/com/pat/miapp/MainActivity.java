@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-
+// Autores: Patrick Segovia - Rick Gonzales
 public class MainActivity extends AppCompatActivity {
 
     private EditText etDatos;
